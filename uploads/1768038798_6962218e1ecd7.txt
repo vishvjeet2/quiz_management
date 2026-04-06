@@ -1,0 +1,190 @@
+
+Print “Hello World” using PHP in 3 different ways
+
+Declare variables of all data types and display their types
+
+Swap two numbers without using third variable
+
+Find largest of 3 numbers using if…else
+
+Check if a number is odd or even
+
+Generate a multiplication table
+
+Convert temperature Celsius ↔ Fahrenheit
+
+Simple calculator using switch case
+
+Find factorial using loop
+
+Print Fibonacci series
+
+Check if a number is prime
+
+Reverse a number
+
+Count digits in a number
+
+Check palindrome number
+
+Display current date & time in multiple formats
+
+Print star pyramid patterns
+
+Print number pyramid
+
+Sum of digits using loop
+
+Armstrong number check
+
+Generate random OTP
+
+Find GCD & LCM
+
+Print prime numbers between 1–100
+
+Reverse a string without strrev()
+
+Count vowels & consonants
+
+Find missing number in an array
+
+Create indexed, associative & multidimensional arrays
+
+Sort array ascending & descending
+
+Find max & min in array
+
+Remove duplicate values from array
+
+Merge two arrays
+
+Count frequency of elements
+
+Search value in array
+
+Convert array to string & vice versa
+
+Find second largest number in array
+
+Group array by key
+
+Pagination logic using array - learn
+
+Sum values of associative array
+
+Array filter example
+
+Create custom array sorting function
+
+Convert multidimensional array to HTML table
+
+Reverse string
+
+Count words in sentence
+
+Replace words in string
+
+Find substring position
+
+Validate email format
+
+Validate mobile number
+
+Password strength checker
+
+Remove special characters
+
+Convert string to title case
+
+Encrypt & decrypt string (simple logic)
+
+Read text file
+
+Write data to file
+
+Append data to file
+
+Upload image file
+
+Upload multiple files
+
+Validate file size & type
+
+Rename uploaded file
+
+Delete file from server
+
+Create dynamic folder structure
+
+Create backup script for files
+
+Create contact form
+
+Server-side form validation
+
+Show error messages without page refresh // not done
+
+Store form data in database
+
+Edit & update form data
+
+Delete form records
+
+CSRF protection logic
+
+Google reCAPTCHA integration
+
+Auto-fill form data for edit
+
+Multi-step form (like nomination form)
+
+Database connection using MySQLi
+
+Insert record using prepared statement
+
+Fetch records using while loop
+
+Update record
+
+Delete record
+
+Search records
+
+Pagination using SQL
+
+Login system using database
+
+Forgot password logic
+
+Export data to Excel / CSV
+
+Create login system using session
+
+Logout functionality
+
+Remember-me using cookies
+
+Prevent SQL injection
+
+Password hashing using password_hash()
+
+use datatable
+
+
+
+User Registration & Login System
+
+Admin Panel with CRUD
+
+Student Management System
+
+Contact Form with Email Notification
+
+File Upload Manager
+
+Online Quiz System
+
+Expense Tracker
+
+Complete CMS (Pages + Admin + Login)
