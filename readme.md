@@ -1,10 +1,3 @@
-### How to set up this README file properly:
-1.  **Create the file:** In your project's root folder (`C:\xampp\htdocs\admin\`), create a new file and name it exactly `README.md`.
-2.  **Paste the content:** Copy the text below and paste it into that file.
-3.  **View it:** If you upload this to GitHub or use a Markdown viewer (like VS Code), it will automatically format with bold headers, tables, and bullet points.
-
----
-
 # 🎓 Quiz & Document Management System (LMS)
 
 A robust, PHP-based Learning Management System designed to bridge the gap between Administrators and Students. This application allows for dynamic content creation, secure document handling, and an interactive examination system.
